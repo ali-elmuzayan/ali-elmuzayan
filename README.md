@@ -49,6 +49,7 @@ I enjoy turning real-world problems into reliable software solutions and continu
 - System Design & ERD
 
 ---
+<!--
 
 ## 📌 Featured Projects
 
@@ -78,7 +79,7 @@ I enjoy turning real-world problems into reliable software solutions and continu
 > 👉 More projects are available in my repositories below.
 
 ---
-
+-->
 ## 📫 Let’s Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ali-ahmed-3976a837a/
@@ -86,6 +87,7 @@ I enjoy turning real-world problems into reliable software solutions and continu
 - 📧 Email: ali.elmuzayn@email.com
 
 ---
+
 
 ## 🧩 Currently Learning & Improving
 
